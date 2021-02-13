@@ -140,7 +140,7 @@ def calc_process_time(starttime, arraykey, arraylength):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: ./onlyfans-dl <profile> <accessToken>")
+        print("Usage: ./onlyfans-dl <@angelicaslabyrinth> <Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36>")
         print("See README for instructions.")
         exit()
 
